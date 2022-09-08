@@ -1,3 +1,3 @@
-# '''This is 3rd file'''
-# name = input("Type Your Name Here..")
-print(" You have successfully integated git into jenkins...")
+'''This is 3rd file'''
+name = input("Type Your Name Here..")
+print("Hi " + name + ".! You have successfully integated git into jenkins...")
